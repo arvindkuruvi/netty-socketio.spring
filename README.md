@@ -1,4 +1,5 @@
 https://stackoverflow.com/questions/57505589/can-i-use-socket-io-with-spring-boot
+https://stackoverflow.com/questions/15568700/best-java-server-implementation-for-socket-io/16711894#16711894
 
 # An example of real-time chat application 
 
