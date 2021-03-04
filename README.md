@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/57505589/can-i-use-socket-io-with-spring-boot
+
 # An example of real-time chat application 
 
 Built with 
